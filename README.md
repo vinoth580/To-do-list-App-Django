@@ -8,11 +8,11 @@ To-do-list-App-Django
 ![image](https://user-images.githubusercontent.com/82578473/210959753-3bb9216d-5eb9-47c8-8910-60d311751629.png)
 
 
-![image](https://user-images.githubusercontent.com/82578473/210960015-2c5aa14a-9dff-48a0-954f-2420abb7c595.png)
+![image](https://user-images.githubusercontent.com/82578473/210961621-2744e8a8-6092-4c6b-9ae8-6b04c78ded45.png)
 
 
-![image](https://user-images.githubusercontent.com/82578473/210960193-d4e0eed3-158c-411d-800a-8cb89ee22be5.png)
+![image](https://user-images.githubusercontent.com/82578473/210961724-9746e739-97bb-4970-9790-4b503220b7f8.png)
 
 
-![image](https://user-images.githubusercontent.com/82578473/210960762-b1bc9688-ca00-4696-92cf-cec02ea87f2b.png)
+![image](https://user-images.githubusercontent.com/82578473/210961934-11efccc8-64cc-4859-9696-8243978f76d0.png)
 
